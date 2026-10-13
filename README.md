@@ -8,7 +8,7 @@
 <img src="06-looks-saved-profile.png" width="100%">
 <img src="07-dark-mode.png" width="100%">
 
-A complete **SwiftUI** UI template for a hair salon booking app, with onboarding, services, stylist profiles, a 4-step booking flow, booking management, a look book and rewards. Light and dark mode. **Get the full source code here: [LINK]**
+A complete **SwiftUI** UI template for a hair salon booking app, with onboarding, services, stylist profiles, a 4-step booking flow, booking management, a look book and rewards. Light and dark mode. **Get the full source code here: [https://qinqin4.gumroad.com/l/rznllw]**
 
 ## What's included
 - 3-page onboarding
